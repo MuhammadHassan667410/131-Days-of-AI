@@ -9,8 +9,3 @@ This folder includes my notes, code notebooks, and mini-projects from Day 01 to 
 - Day 14–15: Numpy arrays, operations
 - Day 16–17: Data cleaning and visualization with matplotlib/seaborn
 - Day 18–19: Introduction to machine learning with scikit-learn
-
-## 📁 Structure
-- `notebooks/` – Jupyter notebooks from each day
-- `notes/` – Summary notes of daily learning
-- `mini-projects/` – Projects created during the learning
