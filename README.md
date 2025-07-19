@@ -14,5 +14,9 @@ I'll update this repo with:
 
 I am currently at day 27 when I created this reprository, so i will post a brief of what i learned before
 
-## 📂 Folder Structure (Planned)
+
+## 🌟 Connect with Me
+-  Email: [mtsulehri@gmail.com]
+-  LinkedIn: [www.linkedin.com/in/muhammad-hassan-035a78375]
+
 
